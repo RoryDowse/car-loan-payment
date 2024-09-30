@@ -4,7 +4,7 @@
 
 This project enables car buyers to save on their purchase. It determines the monthly base payment based on the vehicle price or MSRP, down payment, and loan term at 0% interest and with no additional markup. The monthly base payment provides an objective starting point to compare with a third-party quote. The application calculates the monthly base payment and subtracts the third-party quote in order to determine potential savings. The user is provided with tips to identify additional costs (i.e. market-adjustment, loan charges, add-ons, dealer fees, service charges, registration fees, and sales tax), enabling the user to make a more informed purchase decision.
 
-Deploy Link: [rorydowse.github.io/car-loan-payment](https://rorydowse.github.io/car-loan-payment/)
+Deployed Link: [rorydowse.github.io/car-loan-payment](https://rorydowse.github.io/car-loan-payment/)
 
 ## Features
 
