@@ -4,6 +4,8 @@
 
 This project enables car buyers to save on their purchase. It determines the monthly base payment based on the vehicle price or MSRP, down payment, and loan term at 0% interest and with no additional markup. The monthly base payment provides an objective starting point to compare with a third-party quote. The application calculates the monthly base payment and subtracts the third-party quote in order to determine potential savings. The user is provided with tips to identify additional costs (i.e. market-adjustment, loan charges, add-ons, dealer fees, service charges, registration fees, and sales tax), enabling the user to make a more informed purchase decision.
 
+Deploy Link: rorydowse.github.io/car-loan-payment
+
 ## Features
 
 - Calculate monthly car loan payments at 0% interest without additional markup.
@@ -33,17 +35,13 @@ If the user enters a vehicle price of $48,000, a down payment of $9,600, and a l
 
 ![Screenshot](./assets/images/screenshot.png)
 
-## Deploy Link
-
-https://b3hold23.github.io/car-loan-payment/
-
 ## Credits
 
 Collaborators:
 
-Jaron Anderton: <br>
-Rory Dowse: [github.com/RoryDowse](https://github.com/RoryDowse) <br>
-Angel Fernandez:
+Jaron Anderton <br>
+Rory Dowse <br>
+Angel Fernandez
 
 ## License
 
